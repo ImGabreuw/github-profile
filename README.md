@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# github-profile
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/ImGabreuw/github-profile?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/ImGabreuw/github-profile?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ImGabreuw/github-profile?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ImGabreuw/github-profile?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/ImGabreuw/github-profile?style=for-the-badge)
 
-## Available Scripts
+![preview](https://github.com/ImGabreuw/github-profile/blob/master/.github/preview.PNG)
 
-In the project directory, you can run:
+> Search for a github user.
 
-### `npm start`
+### TO-DO
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [ ] Add description
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 💻 Prerequisites
 
-### `npm test`
+* npm / node
+* Visual Studio Code
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Technology
 
-### `npm run build`
+* HTML
+* JavaScript
+* CSS
+* Bootstrap
+* Github API
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Repository clone
+$ git clone https://github.com/ImGabreuw/github-profile
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Go to the application directory
+$ cd github-profile/
 
-### `npm run eject`
+# Start the application
+$ npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Go to http://localhost:3000/
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📫 Contribution
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+To contribute to github-profile, follow these steps:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Fork this repository.
+2. Create a branch: `git checkout -b <feature>`.
+3. Make your changes and confirm them: `git commit -m 'feature'`
+4. Send to the original branch: `git push origin <feature>`
+5. Create the pull request.
 
-## Learn More
+Alternatively, refer to the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤝 Contributors
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+We thank the following people who contributed to this project:
 
-### Code Splitting
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ImGabreuw">
+        <img src="https://avatars.githubusercontent.com/u/60116449?v=4" width="100px;" alt="ImGabreuw"/><br>
+        <sub>
+          <b>ImGabreuw</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## 😄 Be one of the contributors<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
-### Making a Progressive Web App
+## 📝 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project is under license. See the archive [LICENSE](LICENSE.md) for more details.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[⬆ Back to the top](#github-profile)<br>
