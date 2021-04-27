@@ -13,6 +13,7 @@
 ### TO-DO
 
 - [ ] Add description
+- [ ] Deploy
 
 ## 💻 Prerequisites
 
